@@ -1,0 +1,10 @@
+1984;George Orwell;Dystopian;book;1949
+Brave New World;Aldous Huxley;Dystopian;book;1932
+The Catcher in the Rye;J.D. Salinger;Fiction;book;1951
+The Great Gatsby;F. Scott Fitzgerald;Classic;book;1925
+The Road;Cormac McCarthy;Fiction;book;2006
+To Kill a Mockingbird;Harper Lee;Drama;book;1960
+National Geographic;Various;Science;magazine;2023
+Scientific American;Various;Science;magazine;2023
+Time Magazine;Various;Current Affairs;magazine;2022
+The New York Times;Various;News;newspaper;2024
